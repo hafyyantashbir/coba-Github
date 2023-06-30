@@ -7,4 +7,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   Serial.println("Coba Github");
   delay(1000);
+  Serial.println("Berhasil");
 }
