@@ -9,4 +9,5 @@ void loop() {
   delay(1000);
   Serial.println("Berhasil");
   Serial.println("Coba branch");
+  Serial.println("Berhasil coba branch");
 }
